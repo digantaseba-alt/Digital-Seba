@@ -1,0 +1,16 @@
+{
+  "name":"Samiya Fashion Business",
+  "short_name":"Samiya Fashion",
+  "description":"Mobile-first business accounting and analytics app",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait-primary",
+  "background_color":"#f6f7fb",
+  "theme_color":"#7c3aed",
+  "lang":"bn-BD",
+  "icons":[
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
